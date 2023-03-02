@@ -20,6 +20,7 @@ public class calc {
 		System.out.println("Multiplying both Numbers:"+c);
 	}
 	public static void main(String[] args) {
+		System.out.println("project calculator");
 
 		Scanner s = new Scanner(System.in);
 		System.out.println("Enter first number:");
