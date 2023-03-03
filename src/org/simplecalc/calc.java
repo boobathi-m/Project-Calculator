@@ -27,6 +27,8 @@ public class calc {
 	}
 
 	public static void main(String[] args) {
+		System.out.println("project calculator");
+
 		System.out.println("perfoms  addition ,subraction,division,multiplication");
 		Scanner s = new Scanner(System.in);
 		System.out.println("Enter first number:");
